@@ -1,0 +1,17 @@
+[INFO ] 2018-11-24 16:37:45.259 [main] SearchApplication - Configuration file is specified
+[INFO ] 2018-11-24 16:37:45.314 [main] ReadConfigurationFile - No file found
+[INFO ] 2018-11-24 16:39:05.105 [main] SearchApplication - Configuration file is specified
+[INFO ] 2018-11-24 16:39:05.166 [main] ReadConfigurationFile - Read json files
+[INFO ] 2018-11-24 16:39:05.166 [main] SetUpInvertedIndex - Read Configuration file successfully
+[INFO ] 2018-11-24 16:39:06.773 [main] SetUpInvertedIndex - Inverted index of review and qasearch created successfully
+[INFO ] 2018-11-24 16:39:06.774 [main] SearchApplication - Inverted index created successfully
+[INFO ] 2018-11-24 16:39:06.980 [main] SearchApplication - Server created
+[INFO ] 2018-11-24 16:39:07.043 [main] SearchApplication - Servlet handler set to server
+[INFO ] 2018-11-24 16:39:07.051 [main] SearchApplication - Mapping successful
+[INFO ] 2018-11-24 16:39:07.051 [main] SearchApplication - starting server
+[INFO ] 2018-11-24 16:39:12.136 [qtp502800944-15] ReviewSearchHandler - Keyset from review inverted index is successfully created
+[INFO ] 2018-11-24 16:39:12.170 [qtp502800944-15] ReviewSearchHandler - read data into json
+[INFO ] 2018-11-24 16:39:12.216 [qtp502800944-15] ReviewSearchHandler - Replace {keysetauto} with keylist generated
+[INFO ] 2018-11-24 16:39:12.260 [qtp502800944-15] ReviewSearchHandler - GET page response was successful
+[INFO ] 2018-11-24 16:39:29.363 [qtp502800944-11] ReviewSearchHandler - Data given is searched from inverted index
+[INFO ] 2018-11-24 16:39:29.364 [qtp502800944-11] ReviewSearchHandler - POST page response was successful
