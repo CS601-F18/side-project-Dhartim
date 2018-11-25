@@ -3,6 +3,7 @@ Side Project  - Type Ahead and Search
 ===========================================
 
 For this project, you will implement AutoComplete and search functionality as an extended Functionality on Project 3.
+Here is video to see functinality :- https://youtu.be/WycmivhTuG4
 
 ## Requirements
 
