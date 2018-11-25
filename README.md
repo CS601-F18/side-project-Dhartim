@@ -11,7 +11,8 @@ For this project, you will implement AutoComplete and search functionality as an
     - These List of Suggestion will come from Inverted Index, implemented in Project 1.
     - After select any one from Suggestion. Search term selected and list down table of it.
  2. Use javascript, jquery for client-side.
- 3. You will learn about:-
+ 3. Use Log4j for logging.
+ 4. You will learn about:-
     - JavaScript
     - CSS 
     - Jquery
